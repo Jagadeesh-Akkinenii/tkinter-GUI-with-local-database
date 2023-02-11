@@ -28,7 +28,7 @@ def invalid():
     olb4.place(x = 105, y = 207)
 
 def check_command():
-    if str(oe1_value.get()) == "mrrabbit" and str(oe2_value.get()) == "test":   #you can change username and pass here
+    if str(oe1_value.get()) == "test" and str(oe2_value.get()) == "test":   #you can change username and pass here
         owindow.destroy()
         innerwindow.test_001()
     else:
