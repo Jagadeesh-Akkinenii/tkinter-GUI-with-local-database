@@ -1,0 +1,17 @@
+-Hey, I created this small code to store all my favourite anime
+ and their links in a single place.
+
+-In the outerwindow.py file you can set your username and password,
+ it should be in the line 31 where you will be able to see "test"
+ the first one is username and the second is password.
+
+-Incase you are finding difficulty in finding it you should check 
+ the "def check_command()" function and I am sure you will be able
+ to understand it.
+
+-I am planning to upgrade this code by adding better UI design and I
+ am also going to add register option so that multiple accounts can
+ be created and you won't have to manually change the code everytime!
+
+----------------THANK YOU FOR READING-------------------
+
