@@ -43,3 +43,4 @@ def update(Hid = "", HName = "", HLink = "", HRating = ""):
 	cur.execute("UPDATE HG_details SET HName=?, HLlink=?, HRating=? WHERE Hid=?;",(HName, HLink, HRating, Hid))
 	conn.commit()
 	conn.close()
+connect()
